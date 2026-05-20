@@ -16,4 +16,4 @@ This project is a Python-based Caesar Cipher program developed as part of the Sk
 - Python
 
 ## Author
-Talla Sunny
+Varaganti Praachurya 
